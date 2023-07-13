@@ -1,0 +1,35 @@
+button.bpw-floating-button {
+  border-radius: 30px;
+}
+button.bpw-widget-btn {
+  background-color: #4973B8;
+}
+
+div.bpw-layout{
+  height: 60%;
+  box-shadow: 3px 3px 15px grey;
+  right: 3px;
+  bottom:3px;
+  border-radius: 20px;
+
+}
+
+.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content{
+  /*background-color: #e4e6ff;*/
+  background-color: #F5F5F5;
+
+}
+div.bpw-chat-bubble .bpw-chat-bubble-content{
+  border-radius: 20px;
+}
+div.bpw-header-container{
+  border-top: 0
+}
+
+div.bpw-msg-list-scroll-container{
+  box-shadow: inset 0px 0px 5px 0px #bbbbbb;
+}
+
+div.bpw-layout.bpw-chat-container.bpw-anim-fadeIn{
+  opacity: 0.99;
+}
