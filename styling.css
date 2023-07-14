@@ -35,6 +35,5 @@ div.bpw-layout.bpw-chat-container.bpw-anim-fadeIn{
 }
 
 .css-1w9j89e-menu {
-  background-color: #f0f0f0;
-  border: 1px solid #888;
+  position: relative;
 }
