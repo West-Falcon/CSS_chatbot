@@ -37,3 +37,6 @@ div.bpw-layout.bpw-chat-container.bpw-anim-fadeIn{
 .css-1w9j89e-menu {
   position: relative;
 }
+bpw-header-subtitle{
+  display: none;
+}
