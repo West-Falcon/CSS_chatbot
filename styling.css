@@ -33,3 +33,8 @@ div.bpw-msg-list-scroll-container{
 div.bpw-layout.bpw-chat-container.bpw-anim-fadeIn{
   opacity: 0.99;
 }
+
+.css-1w9j89e-menu {
+  background-color: #f0f0f0;
+  border: 1px solid #888;
+}
